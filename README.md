@@ -133,7 +133,8 @@ Publish the URL.
 ```
 
 ## Output:
-![OUTPUT](./out.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/121078629/215282429-71fce458-0b63-4913-8ad5-46f721eb78b1.png)
+
 
 ## HTML Validator
 ![OUTPUT](./valid.png)
